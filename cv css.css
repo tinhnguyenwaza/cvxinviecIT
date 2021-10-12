@@ -86,15 +86,94 @@ i {
 }
 
 .skill {
-    width: 300px;
+    width: 280px;
     height: 10px;
     background-color: #e1e1e1;
 }
 
-#pontSkill1 {
-    width: 150px;
+#pointHTML {
+    width: 75%;
     height: 9px;
     background-color: black;
+}
+
+#pointJavascripts {
+    width: 50%;
+    height: 9px;
+    background-color: black;
+}
+
+#pointJava {
+    width: 75%;
+    height: 9px;
+    background-color: black;
+}
+
+#pointSQL {
+    width: 80%;
+    height: 9px;
+    background-color: black;
+}
+
+#pointBootstrap {
+    width: 50%;
+    height: 9px;
+    background-color: black;
+}
+
+#pointJquery {
+    width: 50%;
+    height: 9px;
+    background-color: black;
+}
+
+#pointEclippse {
+    width: 50%;
+    height: 9px;
+    background-color: black;
+}
+
+#pointJquery {
+    width: 50%;
+    height: 9px;
+    background-color: black;
+}
+
+#pointVSC {
+    width: 50%;
+    height: 9px;
+    background-color: black;
+}
+
+#pointGithub {
+    width: 50%;
+    height: 9px;
+    background-color: black;
+}
+
+#pointAjax {
+    width: 40%;
+    height: 9px;
+    background-color: black;
+}
+
+#pointDNA {
+    width: 60%;
+    height: 9px;
+    background-color: black;
+}
+
+#pointEnglish {
+    width: 30%;
+    height: 9px;
+    background-color: black;
+}
+
+.techinalSikll p {
+    padding: 20px 0 0 0;
+}
+.techinalSikll {
+    padding: 15px 0 0 0;
 }
 
 .row3 {
